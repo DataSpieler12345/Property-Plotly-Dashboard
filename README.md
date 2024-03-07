@@ -10,9 +10,8 @@
 This repository contains an interactive dashboard developed with Plotly Dash for visualizing real estate properties.
 
 ## Screenshots
-
-![dash1](project_screen/dash1.png)
-![dash2](project_screen/dash2.png)
+![dash1](https://github.com/DataSpieler12345/Property-Plotly-Dashboard/assets/45371372/ac5e63da-bb2e-4812-bda0-c3d0869a7af9)
+![dash2](https://github.com/DataSpieler12345/Property-Plotly-Dashboard/assets/45371372/1fe443c6-11a6-4157-8846-2e9672b91ad3)
 
 ## Features
 
